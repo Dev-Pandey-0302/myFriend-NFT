@@ -1,2 +1,2 @@
 # MyFriend-NFT
-Sumeru Digital NFT Project Public Repo
+Sumeru Digital NFT - Public Repo
